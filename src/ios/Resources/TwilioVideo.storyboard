@@ -107,6 +107,7 @@
                             </button>
                         </subviews>
                         <color key="backgroundColor" red="0.93333333333333335" green="0.93333333333333335" blue="0.93333333333333335" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <rect key="contentStretch" x="0.0" y="0.0" width="0.25" height="0.12"/>
                         <constraints>
                             <constraint firstItem="qlu-eV-2lM" firstAttribute="centerX" secondItem="3Bh-pO-6uY" secondAttribute="centerX" id="5jE-Xy-LRj"/>
                             <constraint firstItem="krA-sT-Z3g" firstAttribute="leading" secondItem="3Bh-pO-6uY" secondAttribute="leadingMargin" constant="5" id="AJk-WG-SgW"/>
