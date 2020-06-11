@@ -45,8 +45,8 @@
                                     <action selector="disconnectButtonPressed:" destination="jSN-F6-Q4K" eventType="touchUpInside" id="ekH-u1-k6a"/>
                                 </connections>
                             </button>
-                            <stackView opaque="NO" contentMode="scaleToFill" misplaced="YES" spacing="20" translatesAutoresizingMaskIntoConstraints="NO" id="qlu-eV-2lM">
-                                <rect key="frame" x="162" y="601" width="50" height="50"/>
+                            <stackView opaque="NO" contentMode="bottom" alignment="bottom" spacing="20" translatesAutoresizingMaskIntoConstraints="NO" id="qlu-eV-2lM">
+                                <rect key="frame" x="162.5" y="597" width="50" height="50"/>
                                 <subviews>
                                     <button hidden="YES" opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="bottom" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="XKU-af-eTc" userLabel="Camera switch Button">
                                         <rect key="frame" x="0.0" y="0.0" width="50" height="50"/>
@@ -113,7 +113,7 @@
                             <constraint firstItem="qlu-eV-2lM" firstAttribute="centerX" secondItem="3Bh-pO-6uY" secondAttribute="centerX" id="5jE-Xy-LRj"/>
                             <constraint firstItem="krA-sT-Z3g" firstAttribute="leading" secondItem="3Bh-pO-6uY" secondAttribute="leadingMargin" constant="5" id="AJk-WG-SgW"/>
                             <constraint firstItem="tZu-uw-hgi" firstAttribute="top" secondItem="hJ3-NM-pz1" secondAttribute="bottom" constant="10" id="VcK-2R-BU5"/>
-                            <constraint firstItem="qlu-eV-2lM" firstAttribute="top" secondItem="8oD-ke-cGW" secondAttribute="bottom" constant="16" id="i2A-RE-Xm1"/>
+                            <constraint firstItem="qlu-eV-2lM" firstAttribute="top" secondItem="8oD-ke-cGW" secondAttribute="bottom" constant="597" id="i2A-RE-Xm1"/>
                             <constraint firstItem="tZu-uw-hgi" firstAttribute="top" secondItem="krA-sT-Z3g" secondAttribute="bottom" constant="16" id="o0p-IZ-2Th"/>
                             <constraint firstItem="hJ3-NM-pz1" firstAttribute="trailing" secondItem="3Bh-pO-6uY" secondAttribute="trailingMargin" constant="5" id="sFH-2X-Gms"/>
                         </constraints>
